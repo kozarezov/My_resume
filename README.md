@@ -1,3 +1,3 @@
 # Мое резюме
 
-<embed src="https://github.com/kozarezov/My_resume/blob/master/resume.pdf" width="800"> 
+<img src="https://github.com/kozarezov/My_resume/blob/master/resume.jpg" width="800"> 
